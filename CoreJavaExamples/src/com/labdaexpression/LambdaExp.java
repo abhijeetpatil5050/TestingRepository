@@ -17,6 +17,7 @@ public class LambdaExp {
 		                        
 		                 );
 
+		System.out.println("hello");
 	}
 
 }
